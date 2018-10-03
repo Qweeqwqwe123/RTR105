@@ -1,55 +1,40 @@
-#1. uzdevums
-print("hello world")
-
-#2. uzdevums
-hrs = input("Enter Hours: ")
-rate = input("Enter Rate: ")
-
-
-pay = float(hrs) * float(rate)
-print("Your Pay: ", pay)
-
-Python 2.7.12 (default, Dec  4 2017, 14:50:18) 
-[GCC 5.4.0 20160609] on linux2
-Type "copyright", "credits" or "license()" for more information.
->>> prinq("hello world")
-
-Traceback (most recent call last):
-  File "<pyshell#0>", line 1, in <module>
-    prinq("hello world")
-NameError: name 'prinq' is not defined
->>> print("hello world")
-hello world
->>> hrs = input("Enter Hours:")
-Enter Hours:
-==================== RESTART: /home/user/RTR105/201803.py ====================
-hello world
-Enter Hours:
-==================== RESTART: /home/user/RTR105/201803.py ====================
-hello world
-Enter Hours:
-==================== RESTART: /home/user/RTR105/201803.py ====================
-hello world
-Enter Hours:
-==================== RESTART: /home/user/RTR105/201803.py ====================
-hello world
-Enter Hours:
-==================== RESTART: /home/user/RTR105/201803.py ====================
-hello world
-Enter Hours:12
-('Your Pay: ', 33.0)
-Enter Rate:2>75
->>> 2.75
-2.75
->>> 35
-35
->>> 
-==================== RESTART: /home/user/RTR105/201803.py ====================
-hello world
-Enter Hours:2
-('Your Pay: ', 5.5)
-Enter Rate:
-==================== RESTART: /home/user/RTR105/201803.py ====================
-hello world
-Enter Hours: 25
-Enter Rate: 
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  idle &
+    4  git clone https://github.com/Qweeqwqwe123/RTR105
+    5  ls
+    6  cd RTR105/
+    7  ls
+    8  idle &
+    9  nano dgr_201803.py
+   10  nane dgr_201803.py
+   11  nano dgr_201003.py
+   12  ls
+   13  nano dgr_201803.py
+   14  ls
+   15  ls -l
+   16  cd
+   17  cd RTR105/
+   18  nano history_20181001.txt
+   19  history . history_20181001a.txt
+   20  history > history_20181003a.txt
+   21  nano history_20181001.txt
+   22  history > history_20181003a.txt
+   23  nano history_20181003a.txt 
+   24  git-upload/
+   25  nano dgr_201803.py
+   26  nando history_20181003a.txt
+   27  nano history_2018101a.txt
+   28  history > history_20181003a.txt
+   29  nano history_20180103a.txt
+   30  nanoo history_20181003a.txt
+   31  nano history_20181003a.txt
+   32  ./git-upload
+   33  ./git-upload histpry_20181003a.txt
+   34  ./git-upload history_20181003a.txt 
+   35  git-clone https://github.com/Qweeqwqwe123
+   36  git-clone https://github.com/Qweeqwqwe123/RTR105
+   37  git clone https://github.com/Qweeqwqwe123/RTR105
+   38  cd RTR105/
+   39  git-upload dgr_201803.py
+   40  history > dgr_201803.py
